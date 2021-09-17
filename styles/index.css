@@ -707,7 +707,7 @@ p {
 /* - Font family - */
 @font-face {
   font-family: "IBM-font";
-  src:url("/font/ibm_eot/IBMPlexSansKR-Regular.eot");
+  src:url("../font/ibm_eot/IBMPlexSansKR-Regular.eot");
   src: local("?"),
   url(/font/ibm_eot/IBMPlexSansKR-Regular.eot?#iefix) format("embedded-opentype"),
   url(/font/ibm_ttf/IBMPlexSansKR-Regular.ttf) format("truetype"),
